@@ -126,10 +126,17 @@ Figma er dårlig aswell! Jeg har fundet noget jeg synes der er godt: https://www
 #### Tirsdag d. 2. maj
 Set den nye printer i aktion. Tobias skulle printe nogle beams, og jeg så hvordan andet lag gik lynhurtigt. Printeren hed P1P mener jeg. 
 Logo blev færdig og uploadet til: https://docs.google.com/document/d/1XumUMbpcODDmR0A--phCoR7Ws4O4I53G455trvnNyzY/edit
-Har taget sin tid i og med at det er lavet fra bunden af, og første gang jeg skulle bruge programmet. 
+Har taget sin tid i og med at det er lavet fra bunden af, og første gang jeg skulle bruge programmet.
+
+![logo](https://github.com/swes42/Abstractica/assets/69907277/1d606b9b-b8a9-475e-a6ee-399afee293ce)
+
  
 #### Tirsdag d. 9. maj
 Arbejdet med mockup til at præsentere til Kim. 
+![mockup1](https://github.com/swes42/Abstractica/assets/69907277/5fa9f07d-3d5c-4085-b03a-ea7346156945)
+
+![mockup2](https://github.com/swes42/Abstractica/assets/69907277/4ee10926-9d47-4b11-a63c-e15f0c451e01)
+
  
  
 #### Onsdag d. 10. maj 
@@ -138,6 +145,10 @@ Møde med Kim, som desværre blev aflyst. Nogle dage efter blev jeg syg, og så 
 
 #### Fredag d. 19. maj
 Fremviste mockup til Kim, og han kom med konstruktiv feedback. Sagde blandt andet, at når brugeren loggede ind kunne det være en fordel at have ’mindre støj’, og gøre brugersiden mere målrettet på hvad brugeren synes var spændende og hvem brugeren følger’s opslag. 
+
+![mockup3](https://github.com/swes42/Abstractica/assets/69907277/0005c4f8-f209-49d4-9474-9a2df29c04fe)
+
+![mockup4](https://github.com/swes42/Abstractica/assets/69907277/c2e6e82d-3dab-41b9-ae73-656a7ba24374)
  
  
 #### Refleksion af valgfaget: 
