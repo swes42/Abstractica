@@ -34,8 +34,10 @@ Tirsdag d. 7. marts
 I dag ser jeg en video om abstraktioner lavet af Tobias. Video:
 https://cphbusiness.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8b446229-0d37-457a-96c2-afba01133eea
 - Noter fra videoen:
--- Abstraktion i programmering: Værktøjer til at skjule detaljer for at gøre ting simplere. Hvis man laver noget der er abstrakt, gør man sig uafhængig af detaljer.
--- Domænemodel: Interfaces kan ”visualisere” en domænemodel, og være up2date med koden. 
+
+Abstraktion i programmering: Værktøjer til at skjule detaljer for at gøre ting simplere. Hvis man laver noget der er abstrakt, gør man sig uafhængig af detaljer.
+
+Domænemodel: Interfaces kan ”visualisere” en domænemodel, og være up2date med koden. 
 …
 
 
@@ -62,10 +64,22 @@ Undersøgt nettet for lignende sider som Abstracticas også gerne skulle ende ud
 
 Mandag d. 27. marts
 Mødet rykket til tirsdag d. 28 kl.13.30 på zoom.
+
+
 Tirsdag d. 28. marts
 Til at præsentere for Kim, har jeg oprettet et whiteboard hvor jeg har indsat nogen screenshots af forskellige hjemmesider jeg synes der minder om Thingiverse, og som kunne være inspiration til skabningen af Abstractica siden. Hjemmesider jeg har kigget på er;
-Thingiverse.com, Pinshape.com, Thangs.com, YouMagine.com, Printables.com, MyMiniFactory.com, GrabCAD.com… listen kunne blive lang. 😊 
+- Thingiverse.com, 
+- Pinshape.com, 
+- Thangs.com, 
+- YouMagine.com, 
+- Printables.com, 
+- MyMiniFactory.com, 
+- GrabCAD.com
+
 Derudover har jeg oprettet et Word dokument "Kravspecifikation Abstractica", hvori jeg har skrevet om scope, funktionelle krav herunder tænkt over use cases, prioriteret de enkelte use cases og udarbejdet et use case diagram over de 4 vigtigste funktioner vha. UML-værktøjet. Til næste gang vil jeg gerne have lavet fully dressed på én eller flere use cases, og dertil måske lave en user story på en use case for netop at gøre det "let tilgængeligt" for en læser udefra, at forstå hvad man gerne vil have systemet til at gøre. Dertil vil jeg nok også have skrevet om ikke-funktionelle krav, og måske have lavet et mock-up af Abstractica hjemmesiden?
+![usecase](https://github.com/swes42/Abstractica/assets/69907277/9870ce74-6758-4578-ad8e-76b6174b06bc)
+![usecases](https://github.com/swes42/Abstractica/assets/69907277/6f709894-eb6a-41aa-8d2c-71f5d26afa65)
+
   
 Efter mødet
 Kim hjalp med at indsnævre hvad fokus ville være til opstart af hjemmesiden, som var CRUD posts. Hvilket gav god mening. Jeg har tænkt for meget i sikkerheds-banerne, og hvilke rettigheder den enkelte bruger skulle have. Men som Kim sagde, kunne jeg blot lave en dummy-hjemmeside. Til mødet havde jeg trælse problemer med min computer, hvilket jeg håber vil være fikset inden næste møde som blev efter påskeferien; 14.april kl. 1330. Vi aftalte at jeg skulle lave et mockup af hjemmesiden.
