@@ -105,8 +105,10 @@ Arbejdes med mockup af app + hjemmelavet logo.
 Tobias sagde at vi skulle undersøge hjemmesiden Stemfie.org og prøve at printe quick-print samples ud. Printeren skulle først varmes op til 215 grader, og markerer sine levels. Derefter downloadede jeg 3mf filen fra https://www.stemfie.org/parts/28-3d-printing/60-samples/117-stemfie-quick-print-sample og konverterede filen i PrusaSlicer til en g-code fil. Hvis jeg havde downloadet i stl fil, ville jeg først skulle konvertere til en 3mf fil. Printet blev vellykket, og som vist på billedet. Tobias fortalte at skolen havde købt en ny cool printer, som ville blive leveret inden længe. Jeg kan ikke huske hvad den hed.
 
 
+![stemfie](https://github.com/swes42/Abstractica/assets/69907277/27bc931d-a1af-42fd-ae4f-91644803833e)
 Figur 1: https://www.stemfie.org/parts/28-3d-printing/60-samples/117-stemfie-quick-print-sample
- 
+
+![egnemodeller](https://github.com/swes42/Abstractica/assets/69907277/adbca4b0-423e-401b-9662-925fe0d78f81)
 Figur 2: Billede af hvordan printet blev. Der mangler nogle dele. 
 
 Min klassekammerat prøvede at ændre i infill, fra 20% til 50% hvilket resulterede i at der var én af skruerne der fik support (som hvis hun havde klikket ”ja” til support).
